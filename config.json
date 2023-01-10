@@ -1,9 +1,9 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "ownerNumber": ["62882003427100@s.whatsapp.6281326522477@s.whatsapp.netnet"],
+    "ownerName": "ᴹᴿ᭄ Pond-×፝֟͜×",
+    "instagram" : "https://instagram.com/pon.pondaaa",
+    "botName": "Pond-Botz ×፝֟͜×",
+    "footer": "api.Pond-Botz ×፝֟͜×",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
@@ -19,7 +19,7 @@
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 5,
     "gcount": {
         "prem": 1000,
         "user": 15
